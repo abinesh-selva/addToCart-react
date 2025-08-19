@@ -1,0 +1,6 @@
+[
+  { "id": 1, "name": "Golden Wild Honey", "price": 1000, "image": "https://placehold.co/150x150" },
+  { "id": 2, "name": "Forest Blossom Honey", "price": 2000, "image": "https://placehold.co/150x150" },
+  { "id": 3, "name": "Mountain Meadow Honey", "price": 1500, "image": "https://placehold.co/150x150" },
+  { "id": 4, "name": "Sunny Valley Organic Honey", "price": 3000, "image": "https://placehold.co/150x150" }
+]
